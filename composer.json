@@ -1,0 +1,15 @@
+{
+    "name": "chemisus/needle",
+    "authors": [
+        {
+            "name": "Terrence Howard",
+            "email": "chemisus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Needle": "src/"
+        }
+    }
+}
